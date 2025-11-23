@@ -1,8 +1,8 @@
-## Aryan Anand
+## Aryan Anand ##[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-aaryan-0713.vercel.app/)
 
-Full-Stack & Blockchain Developer | Building on Solana
+Learning Full-Stack & Blockchain Development | Building on Solana
 
-Currently studying AI/ML at BMSIT and actively participating in Web3 buildathons. Focused on creating decentralized applications that solve real problems.
+Currently studying AI/ML at BMSIT and actively participating in Web3 hackathons. Focused on creating decentralized applications that solve real problems.
 
 ### Quick Overview
 
@@ -11,14 +11,14 @@ const profile = {
   location: "India",
   education: "B.Tech AI/ML @ BMSIT (2024-2028)",
   focus: ["Solana Development", "Full-Stack Web3", "Smart Contracts"],
-  learning: ["ML Specialization (Andrew Ng)", "School of Solana S7"],
+  Aim to learning: ["ML Specialization (Andrew Ng)", "School of Solana S7"],
   buildathonEarnings: "$1,957 USD"
 };
 ```
 
 ---
 
-## Technical Skills
+## Learning Technical Skills
 
 **Blockchain & Web3**  
 Solana, Anchor, Ethereum, Solidity, Hardhat, Web3.js, Ethers.js
@@ -121,11 +121,6 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 **B.M.S. Institute of Technology and Management**  
 Bachelor of Technology in Artificial Intelligence and Machine Learning  
 2024 - 2028
-
-**Current Courses**
-- Machine Learning Specialization (Coursera - Andrew Ng) - Ongoing
-- School of Solana S7 (Ackee Blockchain Security) - Ongoing
-
 ---
 
 ## Buildathon Summary
@@ -156,6 +151,6 @@ Bachelor of Technology in Artificial Intelligence and Machine Learning
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SCARPxVeNOM&color=ff6b9d&style=flat)
 
-*lets build it brick by brick*
+**lets build it brick by brick**
 
 </div>
