@@ -89,7 +89,7 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 ### 📊 Contribution Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=SCARPxVeNOM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=ff6b9d" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SCARPxVeNOM&theme=radical&hide_border=true&background=0d1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d&sideLabels=ff6b9d&dates=c9d1d9" alt="GitHub Streak" width="49%"/>
+
 
 ### 📈 Activity Graph
 
