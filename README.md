@@ -82,15 +82,36 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 
 ---
 
-## GitHub Activity
+## GitHub Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SCARPxVeNOM&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCARPxVeNOM&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SCARPxVeNOM&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+### 📊 Contribution Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=SCARPxVeNOM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=ff6b9d" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SCARPxVeNOM&theme=radical&hide_border=true&background=0d1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d&sideLabels=ff6b9d&dates=c9d1d9" alt="GitHub Streak" width="49%"/>
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SCARPxVeNOM&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=SCARPxVeNOM&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%"/>
+
+### 💻 Language Distribution
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCARPxVeNOM&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SCARPxVeNOM&theme=radical" alt="Repos per Language" width="49%"/>
+
+### 🎯 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SCARPxVeNOM/SCARPxVeNOM/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SCARPxVeNOM/SCARPxVeNOM/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SCARPxVeNOM/SCARPxVeNOM/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
@@ -133,7 +154,7 @@ Bachelor of Technology in Artificial Intelligence and Machine Learning
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SCARPxVeNOM&color=58a6ff&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=SCARPxVeNOM&color=ff6b9d&style=flat)
 
 *lets build it brick by brick*
 
