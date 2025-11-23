@@ -1,4 +1,4 @@
-## Aryan Anand ##[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-aaryan-0713.vercel.app/)
+## Hello World! , I'm Aryan Anand [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-aaryan-0713.vercel.app/)
 
 Learning Full-Stack & Blockchain Development | Building on Solana
 
