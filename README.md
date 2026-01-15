@@ -89,11 +89,6 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SCARPxVeNOM&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
 
 
-### 💻 Language Distribution
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCARPxVeNOM&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%"/>
-
-
 ## Buildathon Summary
 
 | Event | Project | Result | Earnings |
