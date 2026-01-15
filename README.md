@@ -95,33 +95,12 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SCARPxVeNOM&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=SCARPxVeNOM&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%"/>
 
 ### 💻 Language Distribution
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCARPxVeNOM&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SCARPxVeNOM&theme=radical" alt="Repos per Language" width="49%"/>
 
-### 🎯 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SCARPxVeNOM/SCARPxVeNOM/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SCARPxVeNOM/SCARPxVeNOM/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SCARPxVeNOM/SCARPxVeNOM/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## Education & Learning
-
-**B.M.S. Institute of Technology and Management**  
-Bachelor of Technology in Artificial Intelligence and Machine Learning  
-2024 - 2028
----
 
 ## Buildathon Summary
 
