@@ -11,8 +11,8 @@ const profile = {
   location: "India",
   education: "B.Tech AI/ML @ BMSIT (2024-2028)",
   focus: ["Solana Development", "Full-Stack Web3", "Smart Contracts"],
-  Aim to learning: ["ML Specialization (Andrew Ng)", "School of Solana S7"],
-  buildathonEarnings: "$1,957 USD"
+  Aim to learning: ["ML Specialization (Andrew Ng)"],
+  buildathonEarnings: "$2,808 USD"
 };
 ```
 
