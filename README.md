@@ -93,6 +93,7 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 
 | Event | Project | Result | Earnings |
 |-------|---------|--------|----------|
+| BNBchain Hackathon | Clawgency | Winner | $10,000 USDC |
 | Akindo Wavehack | OG-Pump | Winner | $1,251 USDT |
 | Akindo Wavehack | ReaX | Top 10 | $156 USDC |
 | Multiple Events | DataMarket | Winner | $284 USDC |
@@ -100,7 +101,7 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 | Multiple Events | ProductiveFi | Winner | $37 OP |
 | CODE RED '25 | Election Fund Collector | Completed | - |
 
-**Total Earnings:** $1,957 USD
+**Total Earnings:** $10,000+ USD
 
 ---
 
