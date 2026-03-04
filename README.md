@@ -69,15 +69,6 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 
 ---
 
-### Additional Projects
-
-| Project | Description | Earnings |
-|---------|-------------|----------|
-| **DataMarket** | Market data aggregation platform | $284 USDC |
-| **PolyBuilder** | Development tools for Polygon | $201 USDC |
-| **ProductiveFi** | DeFi productivity suite | $37 OP |
-| **SafeBill** | Secure payment system | Active |
-
 <img src="dashboardpage.png" alt="Project Dashboard Overview" width="100%"/>
 
 ---
