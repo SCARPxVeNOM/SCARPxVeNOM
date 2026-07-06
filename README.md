@@ -77,6 +77,17 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 **Date:** January 2025
 
 ---
+
+### OFFPAY
+**NMIT Hacks 2026 Finals | National Level Hackathon**
+
+Cryptocurrency payment system enabling MockUSDC transfers even when customers, merchants, and blockchain are all offline simultaneously. Uses signed vouchers with cryptographically bound recipient addresses, NFC tap payments, mesh networking via Google Nearby Connections API, and ESP32 merchant terminals as stateless trust anchors.
+
+**Tech Stack:** Solidity, Kotlin, Jetpack Compose, C++ (ESP32), Node.js, Express, Polygon Amoy  
+**Repository:** [github.com/SCARPxVeNOM/offline-pay](https://github.com/SCARPxVeNOM/offline-pay)
+
+---
+
 ## AKINDO PROFILE
 
 <img src="dashboardpage.png" alt="Project Dashboard Overview" width="100%"/>
@@ -101,6 +112,7 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 | Multiple Events | PolyBuilder | Winner | $201 USDC |
 | Multiple Events | ProductiveFi | Winner | $37 OP |
 | CODE RED '25 | Election Fund Collector | Completed | - |
+| NMIT Hacks 2026 | OFFPAY | Finals | - |
 
 **Total Earnings:** $10,000+ USD
 
