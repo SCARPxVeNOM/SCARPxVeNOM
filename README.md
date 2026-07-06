@@ -77,6 +77,7 @@ Decentralized fund collection system for election campaigns ensuring transparenc
 **Date:** January 2025
 
 ---
+## AKINDO PROFILE
 
 <img src="dashboardpage.png" alt="Project Dashboard Overview" width="100%"/>
 
