@@ -45,6 +45,16 @@ Decentralized meme token trading platform built on 0G Tech Stack. Implemented to
 
 ---
 
+### Clawgency
+**Winner - Good Vibes Only: OpenClaw Edition | BNB Chain | $10,000 USDT**
+
+Won a BNB Chain Prize with Clawgency — an AI-powered on-chain influencer agency that combines AI and Web3 to streamline collaborations between creators and brands. Uses milestone-based escrow smart contracts and governed AI agents to automate workflows on BNB Chain. Selected from ~300 submissions and 600 participants.
+
+**Tech Stack:** Next.js , TypeScript , Solidity, BNB Chain, OpenClaw
+**Repository:** [github.com/SCARPxVeNOM/clawgency](https://github.com/SCARPxVeNOM/clawgency)
+
+---
+
 ### ReaX
 **Top 10 Winner - Akindo Wavehack Buildathon | $156 USDC**
 
