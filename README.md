@@ -53,6 +53,8 @@ Won a BNB Chain Prize with Clawgency — an AI-powered on-chain influencer agenc
 **Tech Stack:** Next.js , TypeScript , Solidity, BNB Chain, OpenClaw
 **Repository:** [github.com/SCARPxVeNOM/clawgency](https://github.com/SCARPxVeNOM/clawgency)
 
+<img src="68747470733a2f2f692e6962622e636f2f345a48464d66634e2f53637265656e73686f742d323032362d30332d31302d3233353632342e706e67.png" alt="Clawgency" width="100%"/>
+
 ---
 
 ### ReaX
