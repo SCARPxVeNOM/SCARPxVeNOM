@@ -9,10 +9,7 @@ Currently studying AI/ML at BMSIT and actively participating in Web3 hackathons.
 ```typescript
 const profile = {
   location: "India",
-  education: "B.Tech AI/ML @ BMSIT (2024-2028)",
   focus: ["Solana Development", "Full-Stack Web3", "Smart Contracts"],
-  Aim to learning: ["ML Specialization (Andrew Ng)"],
-  buildathonEarnings: "$2,808 USD"
 };
 ```
 
