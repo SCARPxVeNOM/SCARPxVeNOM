@@ -1,133 +1,135 @@
-## Hello World! , I'm Aryan Anand [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-aaryan-0713.vercel.app/)
+<div align="center">
 
-Learning Full-Stack & Blockchain Development | Building on Solana
+# Aryan Anand
 
-Currently studying AI/ML at BMSIT and actively participating in Web3 hackathons. Focused on creating decentralized applications that solve real problems.
+**Full-Stack & Blockchain Engineer**
 
-### Quick Overview
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aaryan-0713.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aaryan0713)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/inspuser2024)
 
-```typescript
-const profile = {
-  location: "India",
-  focus: ["Solana Development", "Full-Stack Web3", "Smart Contracts"],
-};
-```
+Building production systems on Solana, EVM chains, and embedded hardware.  
+B.Tech AI/ML @ BMSIT (2024–2028) · Bengaluru, India
+
+</div>
 
 ---
 
-## Learning Technical Skills
+### What I Do
 
-**Blockchain & Web3**  
-Solana, Anchor, Ethereum, Solidity, Hardhat, Web3.js, Ethers.js
+I build end-to-end products — from Solana programs and EVM smart contracts to Android apps with NFC/BLE, ESP32 firmware, and full-stack web dashboards. My work focuses on systems that solve real problems: offline payments that settle deterministically, formally verified DeFi protocols, and AI-powered platforms that have shipped to production.
 
-**Languages**  
-TypeScript, Rust, JavaScript, Python, Solidity
+**$12,000+ earned across hackathons and buildathons.**
 
-**Frontend**  
-React, Next.js, TailwindCSS, Shadcn/ui
+---
 
-**Backend & Databases**  
-Node.js, Express, PostgreSQL, MongoDB, Prisma, Supabase
+### Tech Stack
+
+| Domain | Technologies |
+|--------|-------------|
+| **Blockchain** | Solana, Anchor, Rust, Solidity, Hardhat, Polygon, BNB Chain |
+| **Frontend** | React, Next.js, TypeScript, TailwindCSS, Shadcn/ui |
+| **Backend** | Node.js, Express, FastAPI, Python, PostgreSQL, MongoDB, Prisma, Supabase |
+| **Mobile & Embedded** | Kotlin, Jetpack Compose, C++ (ESP32), NFC, BLE Mesh |
+| **Verification** | Lean 4, Proptest, Kani BMC |
 
 ---
 
 ## Featured Projects
 
-### OG-Pump
-**Winner - Akindo Wavehack Buildathon | $1,251 USDT**
+<table>
+<tr>
+<td width="50%">
 
-Decentralized meme token trading platform built on 0G Tech Stack. Implemented token creation tools, trading infrastructure with real-time price feeds, and multi-chain support.
+### IDLExchange
+**Formally verified perpetual futures on Solana**
 
-**Tech Stack:** TypeScript, Solidity, React, Next.js, Web3.js  
-**Repository:** [github.com/SCARPxVeNOM/0gpumP](https://github.com/SCARPxVeNOM/0gpumP)
+Four novel DeFi primitives — self-repaying perpetuals, power perpetuals (squeeth), portfolio margining, and gradual deleveraging. 18 machine-checked Lean 4 proofs, MEV-resistant batch auctions, 132 KB on-chain binary with no Anchor runtime.
 
-<img src="0g winner.png" alt="OG-Pump - Akindo Buildathon Winner" width="100%"/>
+`Rust` `Solana` `TypeScript` `React` `Lean 4`
 
----
+[Website](https://idlexchange.online) · [Source](https://github.com/SCARPxVeNOM/atmoic) · [Demo](https://youtu.be/SIK8AdwMVOg)
+
+</td>
+<td width="50%">
 
 ### Clawgency
-**Winner - Good Vibes Only: OpenClaw Edition | BNB Chain | $10,000 USDT**
+**Winner — BNB Chain Hackathon · $10,000 USDT**
 
-Won a BNB Chain Prize with Clawgency — an AI-powered on-chain influencer agency that combines AI and Web3 to streamline collaborations between creators and brands. Uses milestone-based escrow smart contracts and governed AI agents to automate workflows on BNB Chain. Selected from ~300 submissions and 600 participants.
+AI-powered on-chain influencer agency with milestone-based escrow contracts, role-based dashboards, and governed AI agent workflows. Selected from ~300 submissions and 600 participants.
 
-**Tech Stack:** Next.js , TypeScript , Solidity, BNB Chain, OpenClaw
-**Repository:** [github.com/SCARPxVeNOM/clawgency](https://github.com/SCARPxVeNOM/clawgency)
+`Next.js` `TypeScript` `Solidity` `BNB Chain` `OpenClaw`
 
-<img src="68747470733a2f2f692e6962622e636f2f345a48464d66634e2f53637265656e73686f742d323032362d30332d31302d3233353632342e706e67.png" alt="Clawgency" width="100%"/>
+[Website](https://clawgency.vercel.app) · [Source](https://github.com/SCARPxVeNOM/clawgency) · [Demo](https://youtu.be/14mQVklPPyQ)
 
----
-
-### ReaX
-**Top 10 Winner - Akindo Wavehack Buildathon | $156 USDC**
-
-Platform enabling users to react to market movements before they happen. Built entirely on Solana using Anchor framework with real-time WebSocket integration.
-
-**Tech Stack:** Anchor, Rust, Solana, TypeScript, Next.js
-
-<img src="linera winner.png" alt="ReaX Project - Linera Buildathon" width="100%"/>
-
----
-
-### Election Fund Collector
-**CODE RED' 25 Hackathon | BMSIT**
-
-Decentralized fund collection system for election campaigns ensuring transparency through blockchain verification. Deployed smart contracts for immutable transaction records.
-
-**Tech Stack:** Next.js, Supabase, Shadcn/ui, TypeScript, Solidity  
-**Date:** January 2025
-
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### OFFPAY
-**NMIT Hacks 2026 Finals | National Level Hackathon**
+**NMIT Hacks 2026 Finals · National Level**
 
-Cryptocurrency payment system enabling MockUSDC transfers even when customers, merchants, and blockchain are all offline simultaneously. Uses signed vouchers with cryptographically bound recipient addresses, NFC tap payments, mesh networking via Google Nearby Connections API, and ESP32 merchant terminals as stateless trust anchors.
+Crypto payments that work when everyone is offline. Signed vouchers with cryptographically bound recipients, NFC tap payments, BLE mesh relay settlement, and ESP32 merchant terminals as stateless trust anchors. 39+ on-chain settlements on Polygon Amoy.
 
-**Tech Stack:** Solidity, Kotlin, Jetpack Compose, C++ (ESP32), Node.js, Express, Polygon Amoy  
-**Repository:** [github.com/SCARPxVeNOM/offline-pay](https://github.com/SCARPxVeNOM/offline-pay)
+`Solidity` `Kotlin` `Jetpack Compose` `C++` `Node.js` `Polygon`
 
-<img src="photo_2026-07-07_05-32-01.jpg" alt="OFFPAY" width="100%"/>
+[Source](https://github.com/SCARPxVeNOM/offline-pay) · [Demo](https://youtu.be/j5fesI0yR4g)
+
+</td>
+<td width="50%">
+
+### OG-Pump
+**Winner — Akindo Wavehack Buildathon · $1,251 USDT**
+
+Decentralized meme token trading platform on 0G Tech Stack. Token creation tools, trading infrastructure with real-time price feeds, and multi-chain support.
+
+`TypeScript` `Solidity` `React` `Next.js` `Web3.js`
+
+[Source](https://github.com/SCARPxVeNOM/0gpumP)
+
+<img src="0g winner.png" alt="OG-Pump Winner" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>More Projects</strong></summary>
+
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **SafeBill** | Warranty locker with RAG-powered Q&A, OCR extraction, and GST compliance | Next.js, FastAPI, PostgreSQL, AWS | [Website](https://safebill.space) · [Source](https://github.com/SCARPxVeNOM/SAFE) |
+| **ReaX** | React to market movements before they happen — built on Solana/Anchor | Anchor, Rust, Solana, TypeScript | [Source](https://github.com/SCARPxVeNOM/ReaX) |
+| **DataMarket** | Market data aggregation platform | — | $284 USDC |
+| **PolyBuilder** | Development tools for Polygon | — | $201 USDC |
+| **ProductiveFi** | DeFi productivity suite | — | $37 OP |
+
+</details>
+
+---
+
+## Hackathon Track Record
+
+| Event | Project | Result | Prize |
+|:------|:--------|:------:|------:|
+| BNB Chain — Good Vibes Only | Clawgency | **Winner** | $10,000 |
+| Akindo Wavehack | OG-Pump | **Winner** | $1,251 |
+| NMIT Hacks 2026 | OFFPAY | **Finals** | — |
+| Akindo Wavehack | ReaX | **Top 10** | $156 |
+| Multiple Buildathons | DataMarket, PolyBuilder, ProductiveFi | **Winner** | $522 |
+| CODE RED '25 | Election Fund Collector | Completed | — |
+
+**Total: $12,000+ USD**
 
 ---
 
-## AKINDO PROFILE
+## GitHub Activity
 
-<img src="dashboardpage.png" alt="Project Dashboard Overview" width="100%"/>
-
----
-
-
-
-## Buildathon/Hackathon Summary
-
-| Event | Project | Result | Earnings |
-|-------|---------|--------|----------|
-| BNBchain Hackathon | Clawgency | Winner | $10,000 USDC |
-| Akindo Wavehack | OG-Pump | Winner | $1,251 USDT |
-| Akindo Wavehack | ReaX | Top 10 | $156 USDC |
-| Multiple Events | DataMarket | Winner | $284 USDC |
-| Multiple Events | PolyBuilder | Winner | $201 USDC |
-| Multiple Events | ProductiveFi | Winner | $37 OP |
-| CODE RED '25 | Election Fund Collector | Completed | - |
-| NMIT Hacks 2026 | OFFPAY | Finals | - |
-
-**Total Earnings:** $10,000+ USD
-
----
-
-## Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-aaryan-0713.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SCARPxVeNOM)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/aaryan0713)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/inspuser2024)
-
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SCARPxVeNOM&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=" alt="Contribution Graph" width="100%"/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SCARPxVeNOM&color=ff6b9d&style=flat)
-
-**lets build it brick by brick**
+![Profile Views](https://komarev.com/ghpvc/?username=SCARPxVeNOM&color=58a6ff&style=flat-square)
 
 </div>
