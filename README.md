@@ -176,11 +176,7 @@ Decentralized meme token trading platform on 0G Tech Stack. Token creation tools
 
 ---
 
-## GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SCARPxVeNOM&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=" alt="Contribution Graph" width="100%"/>
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SCARPxVeNOM&color=58a6ff&style=flat-square)
 
