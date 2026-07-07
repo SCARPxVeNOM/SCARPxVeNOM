@@ -124,7 +124,8 @@ Decentralized meme token trading platform on 0G Tech Stack. Token creation tools
 
 ---
 
-## Gallery
+<details>
+<summary><strong>Gallery</strong></summary>
 
 <table>
 <tr>
@@ -170,6 +171,8 @@ Decentralized meme token trading platform on 0G Tech Stack. Token creation tools
 </td>
 </tr>
 </table>
+
+</details>
 
 ---
 
