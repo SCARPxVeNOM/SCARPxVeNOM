@@ -124,6 +124,55 @@ Decentralized meme token trading platform on 0G Tech Stack. Token creation tools
 
 ---
 
+## Gallery
+
+<table>
+<tr>
+<td align="center" width="50%">
+<strong>IDLExchange — Perpetuals on Solana</strong><br><br>
+<img src="idlexchange-banner.jpg" alt="IDLExchange" width="100%"/>
+</td>
+<td align="center" width="50%">
+<strong>Clawgency — BNB Chain Hackathon Winner</strong><br><br>
+<img src="68747470733a2f2f692e6962622e636f2f345a48464d66634e2f53637265656e73686f742d323032362d30332d31302d3233353632342e706e67.png" alt="Clawgency" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<strong>OG-Pump — Akindo Buildathon Winner</strong><br><br>
+<img src="0g winner.png" alt="OG-Pump Winner" width="100%"/>
+</td>
+<td align="center" width="50%">
+<strong>ReaX — Akindo Wavehack Top 10</strong><br><br>
+<img src="linera winner.png" alt="ReaX Winner" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<strong>Akindo Buildathon Dashboard</strong><br><br>
+<img src="dashboardpage.png" alt="Akindo Dashboard" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<strong>OFFPAY — Home Screen</strong><br><br>
+<img src="offpay-homescreen.jpg" alt="OFFPAY Home" width="250"/>
+</td>
+<td align="center" width="33%">
+<strong>OFFPAY — QR & Transactions</strong><br><br>
+<img src="offpay-qr.jpg" alt="OFFPAY QR" width="250"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<strong>OFFPAY — Activity History</strong><br><br>
+<img src="offpay-activity.jpg" alt="OFFPAY Activity" width="250"/>
+</td>
+</tr>
+</table>
+
+---
+
 ## GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SCARPxVeNOM&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=" alt="Contribution Graph" width="100%"/>
