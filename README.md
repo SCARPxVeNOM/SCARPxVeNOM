@@ -96,14 +96,9 @@ Cryptocurrency payment system enabling MockUSDC transfers even when customers, m
 
 ---
 
-## GitHub Contributions
-
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SCARPxVeNOM&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
 
 
-## Buildathon Summary
+## Buildathon/Hackathon Summary
 
 | Event | Project | Result | Earnings |
 |-------|---------|--------|----------|
