@@ -86,6 +86,8 @@ Cryptocurrency payment system enabling MockUSDC transfers even when customers, m
 **Tech Stack:** Solidity, Kotlin, Jetpack Compose, C++ (ESP32), Node.js, Express, Polygon Amoy  
 **Repository:** [github.com/SCARPxVeNOM/offline-pay](https://github.com/SCARPxVeNOM/offline-pay)
 
+<img src="photo_2026-07-07_05-32-01.jpg" alt="OFFPAY" width="100%"/>
+
 ---
 
 ## AKINDO PROFILE
